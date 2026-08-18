@@ -2,12 +2,12 @@
   "schemaVersion": 1,
   "applicationId": "fr.xar-tsaroth.regie-du-seuil",
   "channel": "candidate",
-  "version": "1.14.3",
-  "publishedAt": "2026-08-18T18:39:51Z",
+  "version": "1.14.4",
+  "publishedAt": "2026-08-18T18:58:05Z",
   "package": {
-    "url": "https://raw.githubusercontent.com/Innotastream/regiexar-updates/main/candidate/packages/Xar-Tsaroth-Regie-v1.14.3-CANDIDATE-5a8b5da4c7fe.zip",
-    "sha256": "5a8b5da4c7fe36c54e0be9050cf932db18f8a5d64be69805c45613aa17531a48",
-    "size": 1246018
+    "url": "https://raw.githubusercontent.com/Innotastream/regiexar-updates/main/candidate/packages/Xar-Tsaroth-Regie-v1.14.4-CANDIDATE-3e1ce8f2accf.zip",
+    "sha256": "3e1ce8f2accf03df35b97643b69698b048a1775fbc3442bcb869f3f4951baf7d",
+    "size": 1246573
   },
-  "signature": "ePsWcGnLuXzciUDy5R3C5HfRIT8IOE0Q17eNIa/SIDu6K+Wy+LbGZ1GFlEHpg5rPPa3Jvr3nZAMWLqD4Tn3yDw=="
+  "signature": "M++p5mcfE03H9aOaHSExzNCSDyytEza8PWBN32KheZHBxABOsi5bhwobjdAUojhXVN8DzuPfBRoKgYLe3EzsDQ=="
 }
